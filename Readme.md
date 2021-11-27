@@ -1,0 +1,1 @@
+Esse projeto inclui todos os exercícios que consegui realizar durante minha passagem pelo Basecamp a.k.a Piscina Virtual durante o processo de seleção da 42 Rio, espero que possa ajudar a você que também está passando por esse processo
